@@ -23,7 +23,7 @@ Hey there! Welcome to `AgentBuilder`, your go-to spot for creating awesome LLM a
 Ready to dive in? Here's how to get set up:
 
 ```bash
-git clone https://github.com/yourusername/AgentBuilder.git
+git clone https://github.com/y12uc231/AgentBuilder.git
 cd AgentBuilder
 # Check SETUP.md for the next steps
 ```
